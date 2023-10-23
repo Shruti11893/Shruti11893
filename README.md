@@ -7,7 +7,7 @@ Student
 🌟 Innovating through code. Curious about Tech. Open to exciting opportunities and collaborations.
 
 * 🌍  I'm based in Bhopal
-* ✉️  You can contact me at [suryanshdubey2525@gmail.com](mailto:suryanshdubey2525@gmail.com)
+* ✉️  You can contact me at [shrutisoni11893@gmail.com](mailto:shrutisoni11893@gmail.com)
 * 🧠  I'm learning Python, Java and C++
 * 🤝  I'm open to collaborating on projects
 
